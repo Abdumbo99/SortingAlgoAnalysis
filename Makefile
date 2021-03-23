@@ -1,2 +1,2 @@
 all:
-	g++ main.cpp sorting.cpp sorting.h -o hw1
+	g++ main.cpp sorting.cpp sorting.h -o runnable
